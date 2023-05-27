@@ -1,9 +1,7 @@
 def greet():
-    print('Hello World!')
-    
-    
+    print('hi welcome!')
+       
 def bye():
     print("bye")
-    
-    
+      
 print(hello())
